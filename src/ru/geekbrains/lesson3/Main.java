@@ -14,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
 
         while (true) {
-            System.out.println("Будем играть? 1 – да / 0 – нет");
+            System.out.println("Повторить игру еще раз? 1 – да / 0 – нет");
             int repeat = scanner.nextInt();
             if (repeat == 1) {
                 playGame();

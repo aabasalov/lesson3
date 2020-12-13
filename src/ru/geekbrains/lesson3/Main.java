@@ -19,7 +19,7 @@ public class Main {
             if (repeat == 1) {
                 playGame();
             } else {
-                System.out.println("Конец!");
+                System.out.println("Приходите еще!");
                 scanner.close();
             }
         }
